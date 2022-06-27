@@ -3,6 +3,6 @@ package hhhhhhh;
 public class NewClassForSourcetree {
 
 	public static void main(String[] args) {
-		System.out.println("kjsdhvkjsdvjd");
+		System.out.println("kjsdhv");
 	}
 }
